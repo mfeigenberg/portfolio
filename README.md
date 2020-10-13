@@ -2,9 +2,10 @@
 
 ## Meryl Feigenberg
 
-[Here is my growing portfolio.] (https://github.com/mfeigenberg/portfolio.git)
+[Here is my growing portfolio.](https://github.com/mfeigenberg/portfolio.git)
 
 This portfolio is in progress and still growing to show my work as an artist and videographer as well as growing web designer.
+
 
 Listed here are:
 * my personal website
