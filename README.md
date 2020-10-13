@@ -1,6 +1,6 @@
 # portfolio
 
-#Meryl Feigenberg
+##Meryl Feigenberg
 
 [Here is my growing portfolio.] (https://github.com/mfeigenberg/portfolio.git)
 
